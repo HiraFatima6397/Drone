@@ -1,5 +1,4 @@
-import 'package:drones/grid_viewphotos.dart';
-import 'package:drones/modules/drones/drones.dart';
+import 'package:drones/modules/drones/Drones.dart';
 import 'package:drones/modules/drones/estart_curiosity.dart';
 import 'package:flutter/material.dart';
 
